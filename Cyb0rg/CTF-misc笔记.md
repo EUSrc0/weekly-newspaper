@@ -11,4 +11,4 @@ date: 2023-01-14 14:12:00
 `\x68\x74\x6d\x6c`flag->hex加密
 
 例如：
-![upload successful](/images/pasted-753.png)
+![upload successful](./images/pasted-753.png)
