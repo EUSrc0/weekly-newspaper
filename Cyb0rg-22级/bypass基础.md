@@ -59,7 +59,7 @@ lea eax,dword ptr ds:[ESP+8]
 ![upload successful](./images/pasted-972.png)
 
 esp栈顶
-ebp栈底
+ebp栈底.
 
 
 
