@@ -1,2 +1,2 @@
-![r](weekly-newspaper\23级-monesy\r.jpg)
+weekly-newspaper\23级-monesy\r.jpg
 111
