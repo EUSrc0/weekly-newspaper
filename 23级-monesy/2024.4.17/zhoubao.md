@@ -1,2 +1,2 @@
-![r]weekly-newspaper/23级-monesy/r.jpg
+![r](././r.jpg)
 111
