@@ -4,3 +4,5 @@ first use fork
 + git remote add origin
 
 + git push -u origin main
+
+![r](./import/r.jpg)
