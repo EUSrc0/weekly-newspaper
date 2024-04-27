@@ -8,7 +8,7 @@ import pwn
 dasdas asd
 ```
 
-![shell](.\images\shell.jpg)
+![shell](./images/shell.jpg)
 
 
 
@@ -16,7 +16,7 @@ dasdas asd
 
 
 
-![shell](.\images\shell.jpg)
+![shell](./images/shell.jpg)
 
 ........
 
